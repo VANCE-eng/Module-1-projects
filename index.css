@@ -9,7 +9,7 @@
     justify-content: horizontal;
     align-items: center;
 }
-flex container {
+.flex-container {
     border: 1px solid red;
     display: flex;
     justify-content: horizontal;
